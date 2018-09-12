@@ -1,10 +1,10 @@
 # SaltStack-Chinese-Manual
-本文是根据SaltStack官方英文文档翻译所得，欲了解原文内容请参见以下链接.
+鏈枃鏄牴鎹甋altStack瀹樻柟鑻辨枃鏂囨。缈昏瘧鎵�寰楋紝娆蹭簡瑙ｅ師鏂囧唴瀹硅鍙傝浠ヤ笅閾炬帴.
 https://docs.saltstack.com/en/latest/contents.html
 
 ![SaltStack Logo](./images/saltstack-logo.png)
 
-# 文档内容目录结构
+# 鏂囨。鍐呭鐩綍缁撴瀯
 + Introduction to Salt
     - The 30 second summary
     - Simplicity
@@ -23,7 +23,7 @@ https://docs.saltstack.com/en/latest/contents.html
     - Other community links
     - Hack the Source
 + Quick Start
-    - 
+    -
 + Installation
     - Quick Install
     - Platform-specific Installation Instructions
@@ -34,4 +34,4 @@ https://docs.saltstack.com/en/latest/contents.html
     - Upgrading Salt
     - Building Packages using Salt Pack
 + Configuring Salt
-    - 
+    -
