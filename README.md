@@ -22,8 +22,13 @@ https://docs.saltstack.com/en/latest/contents.html
     - Follow on ohloh
     - Other community links
     - Hack the Source
-+ Quick Start
-    -
++ SaltStack Get Started Tutorial
+    - Understanding SaltStack-理解运行原理
+    - SaltStack Fundamentals-基础知识
+    - SaltStack Configuration Management-配置管理
+    - Event-Driven Infrastructure-事件驱动的基础设施
+    - Agentless Salt-无客户端方式
+    - SaltStack Components, Flexibility and Speed-组件、灵活性及速度
 + Installation
     - Quick Install
     - Platform-specific Installation Instructions
