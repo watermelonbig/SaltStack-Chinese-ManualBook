@@ -6,8 +6,8 @@ https://docs.saltstack.com/en/latest/contents.html
 
 # 文档内容目录结构
 + [Introduction to Salt 产品介绍](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/01.Introduction-to-Salt-SaltStack-简介.md)
-+ SaltStack Get Started Tutorial 快速入门教程
-    - Understanding SaltStack-理解运行原理
++ [SaltStack Get Started Tutorial 快速入门教程](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/02-0.SaltStack-Get-Started-快速入门教程.md)
+    - [Understanding SaltStack-理解运行原理](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/02-1.Understanding-SaltStack-理解运行原理.md)
     - SaltStack Fundamentals-基础知识
     - SaltStack Configuration Management-配置管理
     - Event-Driven Infrastructure-事件驱动的基础设施
