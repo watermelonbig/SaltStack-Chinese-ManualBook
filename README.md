@@ -6,22 +6,6 @@ https://docs.saltstack.com/en/latest/contents.html
 
 # 文档内容目录结构
 + Introduction to Salt 产品简介
-    - The 30 second summary
-    - Simplicity
-    - Parallel execution
-    - Builds on proven technology
-    - Python client interface
-    - Fast, flexible, scalable
-    - Open
-    - Salt Community
-    - Mailing List
-    - IRC
-    - Follow on Github
-    - Blogs
-    - Example Salt States
-    - Follow on ohloh
-    - Other community links
-    - Hack the Source
 + SaltStack Get Started Tutorial 快速入门教程
     - Understanding SaltStack-理解运行原理
     - SaltStack Fundamentals-基础知识
