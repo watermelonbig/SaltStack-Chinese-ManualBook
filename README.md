@@ -5,7 +5,7 @@ https://docs.saltstack.com/en/latest/contents.html
 ![SaltStack Logo](./images/saltstack-logo.png)
 
 # 文档内容目录结构
-+ [Introduction to Salt 产品介绍](#Salt产品介绍)
++ [Introduction to Salt 产品介绍](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/01.Introduction-to-Salt-SaltStack-简介.md)
 + SaltStack Get Started Tutorial 快速入门教程
     - Understanding SaltStack-理解运行原理
     - SaltStack Fundamentals-基础知识
