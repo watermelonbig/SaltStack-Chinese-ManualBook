@@ -11,7 +11,7 @@ https://docs.saltstack.com/en/latest/contents.html
     - [SaltStack Fundamentals-基础知识](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/02-2.SaltStack-Fundamentals-基础知识.md)
     - [SaltStack Configuration Management-配置管理](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/02-3.Configuration-Management-配置管理.md)
     - [Event Driven Infrastructure-事件驱动的基础设施](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/02-4.Event-Driven-Infrastructure-基于事件驱动的基础设施.md)
-    - Agentless Salt-无客户端方式
+    - [Agentless SaltStack - SaltStack的免代理方式](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/02-5.Agentless-SaltStack-SaltStack的免代理方式.md)
     - SaltStack Components, Flexibility and Speed-组件、灵活性及速度
 + Installation 安装指南
     - Quick Install
