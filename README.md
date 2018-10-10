@@ -12,7 +12,7 @@ https://docs.saltstack.com/en/latest/contents.html
     - [SaltStack Configuration Management-配置管理](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/02-3.Configuration-Management-配置管理.md)
     - [Event Driven Infrastructure-事件驱动的基础设施](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/02-4.Event-Driven-Infrastructure-基于事件驱动的基础设施.md)
     - [Agentless SaltStack - SaltStack的免代理方式](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/02-5.Agentless-SaltStack-SaltStack的免代理方式.md)
-    - SaltStack Components, Flexibility and Speed-组件、灵活性及速度
+    - [SaltStack Components, Flexibility and Speed-组件、灵活性及速度](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/02-6.SaltStack-Compoents-and-Flexibity-and-Speed-SaltStack组件与灵活性以及速度.md)
 + Installation 安装指南
     - Quick Install
     - Platform-specific Installation Instructions
