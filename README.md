@@ -23,3 +23,4 @@ https://docs.saltstack.com/en/latest/contents.html
     - [Upgrading Salt Salt升级](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/03.Installation-安装指南.md#salt升级)
     - [Building Packages using Salt Pack 使用Salt Pack构建软件包](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/03.Installation-安装指南.md#使用salt-pack构建软件包)
 + [Configuring Salt 配置指南](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/04.Configuring-Salt-配置指南.md)
++ [Architecture SaltStack高可用架构](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/20.Architecture-SaltStack高可用架构.md)
