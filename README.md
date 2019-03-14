@@ -30,3 +30,4 @@ https://docs.saltstack.com/en/latest/contents.html
     - [Using Salt at scale - 在更大规模范围内使用Salt时会遇到的一些问题](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/chapter20/20-5.Using-Salt-at-scale-在更大规模范围内使用Salt时会遇到的一些问题.md)
     - [Multi Master Tutorial - Multimaster架构的配置教程](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/chapter20/20-2.MULTI-MASTER-TUTORIAL-Multimaster架构的配置教程.md)
     - [Multi-Master-PKI Tutorial With Failover - 给合使用PKI和failover的Multimaster架构](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/chapter20/20-3.Multi-Master-PKI-Tutorial-With-Failover-给合使用PKI和failover的Multimaster架构.md)
++ [Salt2019.2.0 Release Notes (Codename Fluorine) 新版本功能特性说明](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/25.Salt2019.2.0-Release-Notes-Codename-Fluorine-Salt2019.2.0版本功能特性说明.md)
