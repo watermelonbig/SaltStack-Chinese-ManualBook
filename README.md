@@ -24,6 +24,7 @@ https://docs.saltstack.com/en/latest/contents.html
     - [Building Packages using Salt Pack 使用Salt Pack构建软件包](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/03.Installation-安装指南.md#使用salt-pack构建软件包)
 + [Configuring Salt 配置指南](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/04.Configuring-Salt-配置指南.md)
     - [Configuring the Salt Master - Salt Master配置](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/chapter04/04-1-0.Configuring-the-Salt-Master-Salt-Master配置.md)
+    - [Configuring the Salt Minion - Salt Minion配置](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/chapter04/04-2-0.Configuring-the-Salt-Minion-Salt-Minion配置.md)
 + [Architecture SaltStack高可用架构](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/20.Architecture-SaltStack高可用架构.md)
     - [High Availability Features in Salt - Salt中的高可用性功能](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/chapter20/20-1.High-Availability-Features-in-Salt-Salt中的高可用性功能.md)
     - [Salt Syndic - Salt分区管理](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/chapter20/20-4.SALT-SYNDIC-Salt分区管理.md)
