@@ -32,6 +32,8 @@ https://docs.saltstack.com/en/latest/contents.html
     - [Job Management - Job作业管理](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/chapter04/04-7-0.Job-JobCache-JobResult-Management.md)
     - [Managing the Job Cache - Job Cache作业缓存管理](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/chapter04/04-7-0.Job-JobCache-JobResult-Management.md#MANAGING-THE-JOB-CACHE)
     - [Storing Job Results in an External System - 将Job作业结果存储在外部系统中](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/chapter04/04-7-0.Job-JobCache-JobResult-Management.md#STORING-JOB-RESULTS-IN-AN-EXTERNAL-SYSTEM)
+    - [Logging - 日志系统配置](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/chapter04/04-8-0.Logging-External-Logging-Handlers.md)
+    - [External Logging Handlers - 外部日志记录处理程序](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/chapter04/04-8-0.Logging-External-Logging-Handlers.md#external-logging-handlers)
 + [Architecture SaltStack高可用架构](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/20.Architecture-SaltStack高可用架构.md)
     - [High Availability Features in Salt - Salt中的高可用性功能](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/chapter20/20-1.High-Availability-Features-in-Salt-Salt中的高可用性功能.md)
     - [Salt Syndic - Salt分区管理](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/chapter20/20-4.SALT-SYNDIC-Salt分区管理.md)
