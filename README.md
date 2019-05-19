@@ -37,6 +37,7 @@ https://docs.saltstack.com/en/latest/contents.html
     - [Salt File Server - Salt文件服务器](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/chapter04/04-9-0.Salt-File-Server-and-Git-MinionFS-Backend.md)
     - [Git Fileserver Backend Walkthrough - 配置GitFS作为后端文件服务器的演练方案](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/chapter04/04-9-0.Salt-File-Server-and-Git-MinionFS-Backend.md#git-fileserver-backend-walkthrough)
     - [MinionFS Backend Walkthrough - 配置MinionFS作为后端文件服务器的演练方案](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/chapter04/04-9-0.Salt-File-Server-and-Git-MinionFS-Backend.md#minionfs-backend-walkthrough)
+    - [Salt Package Manager - Salt包管理](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/chapter04/04-10-0.Salt-Package-Manager.md)
 + [Architecture SaltStack高可用架构](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/20.Architecture-SaltStack高可用架构.md)
     - [High Availability Features in Salt - Salt中的高可用性功能](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/chapter20/20-1.High-Availability-Features-in-Salt-Salt中的高可用性功能.md)
     - [Salt Syndic - Salt分区管理](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/chapter20/20-4.SALT-SYNDIC-Salt分区管理.md)
