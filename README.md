@@ -39,7 +39,7 @@ https://docs.saltstack.com/en/latest/contents.html
     - [MinionFS Backend Walkthrough - 配置MinionFS作为后端文件服务器的演练方案](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/chapter04/04-9-0.Salt-File-Server-and-Git-MinionFS-Backend.md#minionfs-backend-walkthrough)
     - [Salt Package Manager - Salt包管理](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/chapter04/04-10-0.Salt-Package-Manager.md)
     - [Storing Data in Other Databases - 将数据存储在其他数据库系统中](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/chapter04/04-11-0.Salt-sdb-nonroot-and-cron.md)
-    - [Running the Salt Master/Minion as an Unprivileged User - 使用非特权用户运行Salt Master/Minion](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/chapter04/04-11-0.Salt-sdb-nonroot-and-cron.md#RUNNING-THE-SALT-MASTER/MINION-AS-AN-UNPRIVILEGED-USER)
+    - [Running the Salt Master/Minion as an Unprivileged User - 使用非特权用户运行Salt Master/Minion](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/chapter04/04-11-0.Salt-sdb-nonroot-and-cron.md#RUNNING-THE-SALT-MASTER-OR-MINION-AS-AN-UNPRIVILEGED-USER)
     - [Using cron with Salt - 通过cron定时执行Salt配置任务](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/chapter04/04-11-0.Salt-sdb-nonroot-and-cron.md#USING-CRON-WITH-SALT)
     - [Hardening Salt - Salt安全加固](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/chapter04/04-12-0.Hardening-Salt-and-Security-Disclosure-Policy.md)
     - [Security disclosure policy - 安全披露政策](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/chapter04/04-12-0.Hardening-Salt-and-Security-Disclosure-Policy.md#SECURITY-DISCLOSURE-POLICY-安全披露政策)
