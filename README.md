@@ -47,7 +47,9 @@ https://docs.saltstack.com/en/latest/contents.html
     - [Master Tops System - Master Tops系统](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/chapter04/04-14.Master-Tops-System.md)
     - [Returners - Salt 作业结果数据返回器](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/chapter04/04-15.Returners.md)
     - [Renderers - Salt 渲染器](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/chapter04/04-16.Renderers.md)
-+ [Architecture SaltStack高可用架构](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/20.Architecture-SaltStack高可用架构.md)
++ [Using Salt 使用指南]
+    - [Grains](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/chapter05/05-1.Grains.md)
++ [Architecture SaltStack 高可用架构](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/20.Architecture-SaltStack高可用架构.md)
     - [High Availability Features in Salt - Salt中的高可用性功能](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/chapter20/20-1.High-Availability-Features-in-Salt-Salt中的高可用性功能.md)
     - [Salt Syndic - Salt分区管理](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/chapter20/20-4.SALT-SYNDIC-Salt分区管理.md)
     - [Using Salt at scale - 在更大规模范围内使用Salt时会遇到的一些问题](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/chapter20/20-5.Using-Salt-at-scale-在更大规模范围内使用Salt时会遇到的一些问题.md)
