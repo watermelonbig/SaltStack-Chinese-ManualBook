@@ -49,7 +49,7 @@ https://docs.saltstack.com/en/latest/contents.html
     - [Renderers - Salt 渲染器](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/chapter04/04-16.Renderers.md)
 + [Using Salt 使用指南](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/05.Using-Salt-%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97.md)
     - [Grains](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/chapter05/05-1.Grains.md)
-    - [STORING STATIC DATA IN THE PILLAR - 使用Pillar存放静态数据](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/chapter05/05-2.Storing-Static-Data-in-the-Pillar.md)
+    - [Storing Static Data in the Pillar - 使用Pillar存放静态数据](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/chapter05/05-2.Storing-Static-Data-in-the-Pillar.md)
     - [Pillar Walkthrough - Pillar实战演练](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/chapter05/05-2-1.Pillar-Walkthrough-Pillar-实战演练.md)
 + [Architecture SaltStack 高可用架构](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/20.Architecture-SaltStack高可用架构.md)
     - [High Availability Features in Salt - Salt中的高可用性功能](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/chapter20/20-1.High-Availability-Features-in-Salt-Salt中的高可用性功能.md)
