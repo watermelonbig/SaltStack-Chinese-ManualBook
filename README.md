@@ -51,6 +51,7 @@ https://docs.saltstack.com/en/latest/contents.html
     - [Grains](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/chapter05/05-1.Grains.md)
     - [Storing Static Data in the Pillar - 使用Pillar存放静态数据](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/chapter05/05-2.Storing-Static-Data-in-the-Pillar.md)
     - [Pillar Walkthrough - Pillar实战演练](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/chapter05/05-2-1.Pillar-Walkthrough-Pillar-实战演练.md)
+    - [Targeting Minions - Minions目标定位](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/chapter05/05-3.Targeting-Minions.md)
 + [Architecture SaltStack 高可用架构](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/20.Architecture-SaltStack高可用架构.md)
     - [High Availability Features in Salt - Salt中的高可用性功能](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/chapter20/20-1.High-Availability-Features-in-Salt-Salt中的高可用性功能.md)
     - [Salt Syndic - Salt分区管理](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/chapter20/20-4.SALT-SYNDIC-Salt分区管理.md)
