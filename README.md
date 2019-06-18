@@ -55,6 +55,8 @@ https://docs.saltstack.com/en/latest/contents.html
     - [The Salt Mine - 管理grains的数据变化](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/chapter05/05-4.The-Salt-Mine.md)
     - [Runners - Salt 运行器](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/chapter05/05-5.Runners-and-Salt-Engines.md#RUNNERS)
     - [Salt Engines - Salt 引擎](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/chapter05/05-5.Runners-and-Salt-Engines.md#SALT-ENGINES)
+    - [Understanding YAML - 理解YAML](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/chapter05/05-6.Understanding-YAML.md)
+    - [Understanding Jinja - 理解Jinja](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/chapter05/05-7.Understanding-Jinja.md)
 + [Architecture SaltStack 高可用架构](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/20.Architecture-SaltStack高可用架构.md)
     - [High Availability Features in Salt - Salt中的高可用性功能](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/chapter20/20-1.High-Availability-Features-in-Salt-Salt中的高可用性功能.md)
     - [Salt Syndic - Salt分区管理](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/chapter20/20-4.SALT-SYNDIC-Salt分区管理.md)
