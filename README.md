@@ -58,6 +58,7 @@ https://docs.saltstack.com/en/latest/contents.html
     - [Understanding YAML - 理解YAML](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/chapter05/05-6.Understanding-YAML.md)
     - [Understanding Jinja - 理解Jinja](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/chapter05/05-7.Understanding-Jinja.md)
     - [Tutorials Index - 各种Salt使用教程](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/chapter05/05-8-0.Tutorials-Index-使用教程索引目录.md)
+    - [Troubleshooting - 故障排查指南](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/chapter05/05-9.Troubleshooting.md)
 + [Orchestration 服务编排](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/11.Orchestration-服务编排.md)
 + [Architecture SaltStack 高可用架构](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/20.Architecture-SaltStack高可用架构.md)
     - [High Availability Features in Salt - Salt中的高可用性功能](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/chapter20/20-1.High-Availability-Features-in-Salt-Salt中的高可用性功能.md)
