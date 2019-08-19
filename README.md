@@ -60,6 +60,7 @@ https://docs.saltstack.com/en/latest/contents.html
     - [Tutorials Index - 各种Salt使用教程](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/chapter05/05-8-0.Tutorials-Index-使用教程索引目录.md)
     - [Troubleshooting - 故障排查指南](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/chapter05/05-9.Troubleshooting.md)
     - [Frequently Asked Questions - Salt在使用中经常被问到的一些问题](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/chapter05/05-10.Frequently-Asked-Questions.md)
+    - [Salt Best Practices - SaltStack最佳实践](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/chapter05/05-11.Salt-Best-Practices.md)
 + [Orchestration 服务编排](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/11.Orchestration-服务编排.md)
 + [Architecture SaltStack 高可用架构](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/20.Architecture-SaltStack高可用架构.md)
     - [High Availability Features in Salt - Salt中的高可用性功能](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/chapter20/20-1.High-Availability-Features-in-Salt-Salt中的高可用性功能.md)
