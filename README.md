@@ -22,7 +22,7 @@ https://docs.saltstack.com/en/latest/contents.html
     - [Optional Dependencies 可选的依赖性](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/03.Installation-安装指南.md#可选的依赖性)
     - [Upgrading Salt Salt升级](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/03.Installation-安装指南.md#salt升级)
     - [Building Packages using Salt Pack 使用Salt Pack构建软件包](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/03.Installation-安装指南.md#使用salt-pack构建软件包)
-+ [Configuring Salt 配置指南](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/04.Configuring-Salt-配置指南.md)
++ [Configuring Salt Salt配置指南](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/04.Configuring-Salt-Salt配置指南.md)
     - [Configuring the Salt Master - Salt Master配置](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/chapter04/04-1-0.Configuring-the-Salt-Master-Salt-Master配置.md)
     - [Configuring the Salt Minion - Salt Minion配置](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/chapter04/04-2-0.Configuring-the-Salt-Minion-Salt-Minion配置.md)
     - [Configuring the Salt Proxy Minion - Salt Proxy Minion配置](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/chapter04/04-3-0.Configuring-the-Salt-Proxy-Minion.md)
