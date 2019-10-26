@@ -76,6 +76,10 @@ https://docs.saltstack.com/en/latest/contents.html
 + [SaltStack APIs](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/19.APIs.md)
     - [Python client API - SaltStack Python客户端程序API开发指南](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/chapter19/19-01.Python-client-API-Python客户端程序API接口.md)
     - [netapi modules - SaltStack netapi模块开发指南](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/chapter19/19-02.netapi-modules.md)
+    - [netapi模块——rest_cherrypy](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/chapter19/19-05.netapi-modules-rest-cherrypy.md)
+    - [netapi模块——rest_tornado](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/chapter19/19-06.netapi-modules-rest-tornado.md)
+    - [netapi模块——rest_wsgi](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/chapter19/19-07.netapi-modules-rest-wsgi.md)
+
 + [Architecture SaltStack 高可用架构](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/20.Architecture-SaltStack高可用架构.md)
     - [High Availability Features in Salt - Salt中的高可用性功能](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/chapter20/20-1.High-Availability-Features-in-Salt-Salt中的高可用性功能.md)
     - [Salt Syndic - Salt分区管理](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/chapter20/20-4.SALT-SYNDIC-Salt分区管理.md)
