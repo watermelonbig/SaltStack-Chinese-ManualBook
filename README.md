@@ -74,6 +74,11 @@ https://docs.saltstack.com/en/latest/contents.html
     - [State System Reference - State状态系统参考资料](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/chapter07/07-1.State-System-Reference.md)
 + [Orchestration 服务编排](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/11.Orchestration-服务编排.md)
 + [Salt Cloud - Salt云管理模块完全指南](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/15.Salt-Cloud.md)
+    - [Configuration - 配置文件](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/15.Salt-Cloud.md)
+    - [Configuration Inheritance - 配置的继承](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/15.Salt-Cloud.md#Configuration-Inheritance---配置的继承)
+    - [QuickStart - 快速入门](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/15.Salt-Cloud.md#QuickStart---快速入门)
+    - [Using Salt cloud - Salt cloud模块使用指南](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/15.Salt-Cloud.md#Using-Salt-cloud---Salt-cloud模块使用指南)
+
 + [SaltStack APIs](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/19.APIs.md)
     - [Python client API - SaltStack Python客户端程序API开发指南](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/chapter19/19-01.Python-client-API-Python客户端程序API接口.md)
     - [netapi modules - SaltStack netapi模块开发指南](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/chapter19/19-02.netapi-modules.md)
