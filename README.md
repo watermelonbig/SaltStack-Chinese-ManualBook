@@ -78,6 +78,9 @@ https://docs.saltstack.com/en/latest/contents.html
     - [Configuration Inheritance - 配置的继承](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/15.Salt-Cloud.md#Configuration-Inheritance---配置的继承)
     - [QuickStart - 快速入门](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/15.Salt-Cloud.md#QuickStart---快速入门)
     - [Using Salt cloud - Salt cloud模块使用指南](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/15.Salt-Cloud.md#Using-Salt-cloud---Salt-cloud模块使用指南)
+    - [Core Configuration - 核心配置](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/15.Salt-Cloud.md#Core-Configuration---核心配置)
+    - [Windows Configuration - 怎样使用Salt Cloud管理Windows实例](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/15.Salt-Cloud.md#Windows-Configuration---怎样使用Salt-Cloud管理Windows实例)
+    - [Cloud Provider Specifics - 针对特定云平台的Salt Cloud配置方法](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/15.Salt-Cloud.md#Cloud-Provider-Specifics---针对特定云平台的Salt-Cloud配置方法)
 
 + [SaltStack APIs](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/19.APIs.md)
     - [Python client API - SaltStack Python客户端程序API开发指南](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/chapter19/19-01.Python-client-API-Python客户端程序API接口.md)
