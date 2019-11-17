@@ -81,7 +81,9 @@ https://docs.saltstack.com/en/latest/contents.html
     - [Core Configuration - 核心配置](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/15.Salt-Cloud.md#Core-Configuration---核心配置)
     - [Windows Configuration - 怎样使用Salt Cloud管理Windows实例](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/15.Salt-Cloud.md#Windows-Configuration---怎样使用Salt-Cloud管理Windows实例)
     - [Cloud Provider Specifics - 针对特定云平台的Salt Cloud配置方法](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/15.Salt-Cloud.md#Cloud-Provider-Specifics---针对特定云平台的Salt-Cloud配置方法)
-
+    - [Miscellaneous Options - 一些零散的配置项](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/chapter15/15-33.Salt-Cloud-Miscellaneous-Options.md)
+    - [Troubleshooting Steps - Salt Cloud故障排查步骤](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/chapter15/15-34.TroubleShooting-Salt-Cloud.md)
+    - [Extending Salt Cloud and Adding Cloud Providers - 开发一个云平台驱动程序](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/chapter15/15-35.Extending-Salt-Cloud-Adding-Cloud-Providers.md)
 + [SaltStack APIs](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/19.APIs.md)
     - [Python client API - SaltStack Python客户端程序API开发指南](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/chapter19/19-01.Python-client-API-Python客户端程序API接口.md)
     - [netapi modules - SaltStack netapi模块开发指南](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/chapter19/19-02.netapi-modules.md)
