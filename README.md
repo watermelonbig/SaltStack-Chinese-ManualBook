@@ -84,6 +84,11 @@ https://docs.saltstack.com/en/latest/contents.html
     - [Miscellaneous Options - 一些零散的配置项](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/chapter15/15-33.Salt-Cloud-Miscellaneous-Options.md)
     - [Troubleshooting Steps - Salt Cloud故障排查步骤](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/chapter15/15-34.TroubleShooting-Salt-Cloud.md)
     - [Extending Salt Cloud and Adding Cloud Providers - 开发一个云平台驱动程序](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/chapter15/15-35.Extending-Salt-Cloud-Adding-Cloud-Providers.md)
+    - [Extending Salt Cloud and Adding OS Support - bootstrap-salt部署脚本的扩展使用](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/chapter15/15-36.Extending-Salt-Cloud-Adding-OS-Support.md)
+    - [Using Salt Cloud from Salt - 在Salt的主要功能模块中使用Salt Cloud的方法](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/chapter15/15-37.Using-Salt-Cloud-from-Salt.md)
+    - [Feature Comparison - Salt Cloud对各云平台的功能支持比较](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/chapter15/15-38.Salt-Cloud-Feature-Comparison.md)
+    - [Using Salt Cloud with the Event Reactor - 在Reactor事件反应器中使用Salt Cloud](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/chapter15/15-39.Using-Salt-Cloud-with-the-Event-Reactor.md)
+
 + [SaltStack APIs](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/19.APIs.md)
     - [Python client API - SaltStack Python客户端程序API开发指南](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/chapter19/19-01.Python-client-API-Python客户端程序API接口.md)
     - [netapi modules - SaltStack netapi模块开发指南](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/chapter19/19-02.netapi-modules.md)
