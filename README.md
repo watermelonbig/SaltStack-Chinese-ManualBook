@@ -73,6 +73,7 @@ https://docs.saltstack.com/en/latest/contents.html
     - [States tutorial, part 4 - Set Up a Workflow by Salt states 使用Salt states建立一个上线发布的工作流](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/chapter05/05-8-16.States-tutorial.md#PART-4---Set-Up-a-Workflow-by-Salt-states)
     - [State System Reference - State状态系统参考资料](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/chapter07/07-1.State-System-Reference.md)
 + [Orchestration 服务编排](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/11.Orchestration-服务编排.md)
++ [Solaris 配置说明](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/12.Solaris.md)
 + [Salt Cloud - Salt云管理模块完全指南](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/15.Salt-Cloud.md)
     - [Configuration - 配置文件](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/15.Salt-Cloud.md)
     - [Configuration Inheritance - 配置的继承](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/15.Salt-Cloud.md#Configuration-Inheritance---配置的继承)
