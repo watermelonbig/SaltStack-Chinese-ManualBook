@@ -93,7 +93,11 @@ https://docs.saltstack.com/en/latest/contents.html
     - [Using Salt Cloud from Salt - 在Salt的主要功能模块中使用Salt Cloud的方法](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/chapter15/15-37.Using-Salt-Cloud-from-Salt.md)
     - [Feature Comparison - Salt Cloud对各云平台的功能支持比较](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/chapter15/15-38.Salt-Cloud-Feature-Comparison.md)
     - [Using Salt Cloud with the Event Reactor - 在Reactor事件反应器中使用Salt Cloud](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/chapter15/15-39.Using-Salt-Cloud-with-the-Event-Reactor.md)
-
++ [Salt Virt 虚拟化模块](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/18.Salt-Virt.md)
+    - [Salt Virt Tutorial - 虚拟化配置教程](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/18.Salt-Virt.md#Salt-Virt-Tutorial)
+    - [The Salt Virt Runner - Salt Virt Runner运行器](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/18.Salt-Virt.md#Salt-Virt-Tutorial)
+    - [Based on Live State Data - 使用在线状态数据](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/18.Salt-Virt.md#Based-on-Live-State-Data)
+    - [Deploy for Network or Disk - 部署虚拟机的网络或磁盘](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/18.Salt-Virt.md#Deploy-for-Network-or-Disk)
 + [SaltStack APIs](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/19.APIs.md)
     - [Python client API - SaltStack Python客户端程序API开发指南](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/chapter19/19-01.Python-client-API-Python客户端程序API接口.md)
     - [netapi modules - SaltStack netapi模块开发指南](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/chapter19/19-02.netapi-modules.md)
