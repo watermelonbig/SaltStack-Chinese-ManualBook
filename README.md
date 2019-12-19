@@ -73,6 +73,7 @@ https://docs.saltstack.com/en/latest/contents.html
     - [States tutorial, part 4 - Set Up a Workflow by Salt states 使用Salt states建立一个上线发布的工作流](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/chapter05/05-8-16.States-tutorial.md#PART-4---Set-Up-a-Workflow-by-Salt-states)
     - [State System Reference - State状态系统参考资料](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/chapter07/07-1.State-System-Reference.md)
 + [Return Codes - 返回码](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/08.Return-Code.md)
++ [Utility Modules - Code Reuse in Custom Modules](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/09.Utility-Modules-Code-Reuse-in-Custom-Modules.md)
 + [Events & Reactor - 事件与反应器](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/10.Events-and-Reactor.md)
     - [Event System - 事件系统](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/chapter10/10-1.Event-System.md)
     - [Beacons - 信标](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/chapter10/10-3.Salt-Beacons.md)
