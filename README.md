@@ -80,6 +80,8 @@ https://docs.saltstack.com/en/latest/contents.html
     - [Reactor System - 反应器系统](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/chapter10/10-4.Salt-Reactor-System.md)
 + [Orchestration 服务编排](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/11.Orchestration-服务编排.md)
 + [Solaris 配置说明](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/12.Solaris.md)
++ [Salt SSH 使用说明](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/13.Salt-SSH.md)
++ [Thorium Complex Reactor](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/14.Thorium-Complex-Reactor.md)
 + [Salt Cloud - Salt云管理模块完全指南](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/15.Salt-Cloud.md)
     - [Configuration - 配置文件](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/15.Salt-Cloud.md)
     - [Configuration Inheritance - 配置的继承](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/15.Salt-Cloud.md#Configuration-Inheritance---配置的继承)
