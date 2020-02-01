@@ -99,7 +99,7 @@ https://docs.saltstack.com/en/latest/contents.html
     - [Using Salt Cloud with the Event Reactor - 在Reactor事件反应器中使用Salt Cloud](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/chapter15/15-39.Using-Salt-Cloud-with-the-Event-Reactor.md)
 + [Salt Proxy Minion - Salt代理客户端](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/16.Salt-Proxy-Minion.md)
     - [Getting Started](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/16.Salt-Proxy-Minion.md#Getting-Started)
-    - [关于`__proxyenabled__`指令](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/16.Salt-Proxy-Minion.md#The-__proxyenabled__-directive)
+    - [关于`__proxyenabled__`指令](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/16.Salt-Proxy-Minion.md#proxyenabled-directive)
     - [SSH Proxymodules](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/16.Salt-Proxy-Minion.md#SSH-Proxymodules)
 + [Command Line Reference - 命令行命令使用参考](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/17.Command-Line-Reference.md)
     - [salt-call](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/chapter17/17-1.salt-call.md)
