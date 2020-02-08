@@ -105,6 +105,7 @@ https://docs.saltstack.com/en/latest/contents.html
     - [New in Carbon](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/21.Network-Automation.md#New-in-Carbon)
     - [NAPALM](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/21.Network-Automation.md#NAPALM)
     - [JUNOS](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/21.Network-Automation.md#JUNOS)
++ [Pillars](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/22.Pillars.md)
 + [Command Line Reference - 命令行命令使用参考](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/17.Command-Line-Reference.md)
     - [salt-call](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/chapter17/17-1.salt-call.md)
     - [salt](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/chapter17/17-2.salt.md)
