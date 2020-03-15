@@ -168,4 +168,6 @@ https://docs.saltstack.com/en/latest/contents.html
 + [Master Tops](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/26.Master-Tops.md)
 + [Minion Data Cache - Minion数据缓存](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/28.Minion-Data-Cache.md)
 + [Slots](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/29.Slots.md)
++ [Version Numbers - Salt版本号的说明](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/30.Version-Numbers.md)
++ [Salt 3000 Release Notes (Codename Neon) 新版本功能特性说明](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/31.Salt-3000-Release-Notes-Codename-Neon.md)
 + [Salt2019.2.0 Release Notes (Codename Fluorine) 新版本功能特性说明](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/25.Salt2019.2.0-Release-Notes-Codename-Fluorine-Salt2019.2.0版本功能特性说明.md)
