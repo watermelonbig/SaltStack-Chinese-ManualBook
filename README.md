@@ -8,6 +8,7 @@ https://docs.saltstack.com/en/latest/contents.html
 + [Introduction to Salt 产品介绍](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/01.Introduction-to-Salt-SaltStack-简介.md)
 + SaltStack技术文章分享
     - [通过SaltStack提升VMware的云自动化能力](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/chapter25/25-1.Advancing-VMware-Cloud-Automation-Capabilities.md)
+    - [VMware vRealize Automation为SaltStack提供了本地化的配置管理功能支持](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/chapter25/25-2.VMware-vRealize-Automation-Adds-Native-Support-With-SaltStack.md)
 + [SaltStack Get Started Tutorial 快速入门教程](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/02.SaltStack-Get-Started-快速入门教程.md)
     - [Understanding SaltStack 理解运行原理](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/chapter02/02-1.Understanding-SaltStack-理解运行原理.md)
     - [SaltStack Fundamentals 基础知识](https://github.com/watermelonbig/SaltStack-Chinese-ManualBook/blob/master/chapter02/02-2.SaltStack-Fundamentals-基础知识.md)
